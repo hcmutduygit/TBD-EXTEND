@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1730477010.38294 "d:/User/LaTeX/TBD-EXTEND/Báo_cáo/new.tex" "new.pdf" "new" 1730477013.43909 0
+["pdflatex"] 1730477353.43741 "d:/User/LaTeX/TBD-EXTEND/Báo_cáo/new.tex" "new.pdf" "new" 1730477356.67155 0
   "C:/Users/ADMIN/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729088714 94397 03f30a65f4bf9c39f78c3d76ae51f4a5 ""
   "C:/Users/ADMIN/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1728398861 11948197 dbe2edc1b80c4f67621dac22f43298a3 ""
   "C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -130,7 +130,7 @@
   "C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vietnam.sty" 1368738347 2477 91784aa2c9213f74609391e3cae65a13 ""
   "C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vncaps.tex" 1368738347 3273 a55ebdb07413d2fea580f210e3c0b252 ""
   "C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "chuong3.tex" 1730477006 908 e4b0797cafd52b61c3649f2bed9874a5 ""
+  "chuong3.tex" 1730477352 925 d58eb153d8f6f76d2fda35b5ee773b8b ""
   "chuong4.tex" 1730475515 403 75ac6d356785800a28684d095fb53feb ""
   "d:/User/LaTeX/TBD-EXTEND/Báo_cáo/new.tex" 1730475379 18298 d7fcbea168591f0f83d86cb88a0fd92e ""
   "image/4b.png" 1728483812 47020 9f1cb2ca617cdc7dba1849e3f47891d9 ""
@@ -155,9 +155,9 @@
   "image/sch4a.png" 1728483789 52582 7d6ffc929bfa4f0fb080156528c104cd ""
   "image/sch5.png" 1728484194 271454 14e830f439d74f41b93e196d96f40fb5 ""
   "image/workspacealtium.png" 1728479797 157493 5bc3fff756e50491b0e775a01e159310 ""
-  "new.aux" 1730477013 7090 79cdd9a9d23bade61de019ab0ffd7372 "pdflatex"
+  "new.aux" 1730477356 7090 79cdd9a9d23bade61de019ab0ffd7372 "pdflatex"
   "new.tex" 1730475379 18298 d7fcbea168591f0f83d86cb88a0fd92e ""
-  "new.toc" 1730477013 1618 8b0e31029634b2620cf6f44c1ff16346 "pdflatex"
+  "new.toc" 1730477356 1618 8b0e31029634b2620cf6f44c1ff16346 "pdflatex"
   (generated)
   "new.aux"
   "new.log"

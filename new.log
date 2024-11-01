@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  1 NOV 2024 22:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  1 NOV 2024 23:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -820,18 +820,42 @@ Package pdftex.def Info: image/cong3que.png  used on input line 312.
 [14
 
 
- <./image/cong3que.png (PNG copy)>]
-<image/ISO_current.png, id=91, 784.50987pt x 606.21217pt>
-File: image/ISO_current.png Graphic file (type png)
-<use image/ISO_current.png>
-Package pdftex.def Info: image/ISO_current.png  used on input line 323.
-(pdftex.def)             Requested size: 455.24411pt x 351.77905pt.
+ <./image/cong3que.png (PNG copy)>] (chuong3.tex
+<image/ch3.1.png, id=91, 1445.4pt x 767.86874pt>
+File: image/ch3.1.png Graphic file (type png)
+<use image/ch3.1.png>
+Package pdftex.def Info: image/ch3.1.png  used on input line 8.
+(pdftex.def)             Requested size: 455.24411pt x 241.84479pt.
+<image/ch3.2.png, id=92, 658.71094pt x 517.935pt>
+File: image/ch3.2.png Graphic file (type png)
+<use image/ch3.2.png>
+Package pdftex.def Info: image/ch3.2.png  used on input line 14.
+(pdftex.def)             Requested size: 455.24411pt x 357.96034pt.
 
 
 [15
 
 
- <./image/ISO_current.png (PNG copy)>] (new.aux)
+ <./image/ch3.1.png>]
+<image/ch3.3.png, id=97, 1445.4pt x 767.86874pt>
+File: image/ch3.3.png Graphic file (type png)
+<use image/ch3.3.png>
+Package pdftex.def Info: image/ch3.3.png  used on input line 20.
+(pdftex.def)             Requested size: 455.24411pt x 241.84479pt.
+
+
+[16 <./image/ch3.2.png> <./image/ch3.3.png>]) (chuong4.tex
+<image/ISO_current.png, id=103, 784.50987pt x 606.21217pt>
+File: image/ISO_current.png Graphic file (type png)
+<use image/ISO_current.png>
+Package pdftex.def Info: image/ISO_current.png  used on input line 7.
+(pdftex.def)             Requested size: 455.24411pt x 351.77905pt.
+
+
+[17
+
+
+ <./image/ISO_current.png (PNG copy)>]) (new.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
@@ -842,17 +866,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 14805 strings out of 473899
- 300148 string characters out of 5726500
+ 14838 strings out of 473899
+ 300851 string characters out of 5726500
  689060 words of memory out of 5000000
- 37398 multiletter control sequences out of 15000+600000
+ 37425 multiletter control sequences out of 15000+600000
  587571 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,10n,107p,440b,408s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/urwvn/utmb8v.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/urwvn/utmr8v.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on new.pdf (17 pages, 7789113 bytes).
+Output written on new.pdf (19 pages, 7982641 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
+ 128 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 123 words of extra memory for PDF output out of 10000 (max. 10000000)
 

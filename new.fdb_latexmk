@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1730473378.40708 "d:/User/LaTeX/TBD-EXTEND/Báo_cáo/new.tex" "new.pdf" "new" 1730473381.05387 0
+["pdflatex"] 1730477010.38294 "d:/User/LaTeX/TBD-EXTEND/Báo_cáo/new.tex" "new.pdf" "new" 1730477013.43909 0
   "C:/Users/ADMIN/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729088714 94397 03f30a65f4bf9c39f78c3d76ae51f4a5 ""
   "C:/Users/ADMIN/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1728398861 11948197 dbe2edc1b80c4f67621dac22f43298a3 ""
   "C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -130,7 +130,9 @@
   "C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vietnam.sty" 1368738347 2477 91784aa2c9213f74609391e3cae65a13 ""
   "C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vncaps.tex" 1368738347 3273 a55ebdb07413d2fea580f210e3c0b252 ""
   "C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "d:/User/LaTeX/TBD-EXTEND/Báo_cáo/new.tex" 1730473372 18661 6c9a78ef5363d5dfe5b63fc807bcaf55 ""
+  "chuong3.tex" 1730477006 908 e4b0797cafd52b61c3649f2bed9874a5 ""
+  "chuong4.tex" 1730475515 403 75ac6d356785800a28684d095fb53feb ""
+  "d:/User/LaTeX/TBD-EXTEND/Báo_cáo/new.tex" 1730475379 18298 d7fcbea168591f0f83d86cb88a0fd92e ""
   "image/4b.png" 1728483812 47020 9f1cb2ca617cdc7dba1849e3f47891d9 ""
   "image/ISO_current.png" 1729950298 1532993 db20572ed11972dc689d943ab2aee0ea ""
   "image/altium.png" 1728481282 1178613 b7df58f3ff7d18a6befa95566fab3a6a ""
@@ -138,6 +140,9 @@
   "image/cauhcurcuit.png" 1728485531 1894628 ab57ede98c72ecb2c42754e2bc3a0c83 ""
   "image/cauhsimple.png" 1728485380 59383 34d33ca86389a89b85970b54ea2ef9f3 ""
   "image/cauhwork.png" 1728481468 281336 ea2c0b3a68df4bbe9d6cab24305c3e7e ""
+  "image/ch3.1.png" 1730476237 153765 bb5f397dc8dbae6ce60c0f9498d2bc00 ""
+  "image/ch3.2.png" 1730476824 40850 335f35743b4cb0284eb5ec8d8e4f59cb ""
+  "image/ch3.3.png" 1730476990 75937 df4a50026c18380f29fb5648a2adf5db ""
   "image/cong3que.png" 1728486133 1145637 e7efbfc9219cd4a851a2d9a4e2d6fbff ""
   "image/pcb1.png" 1728484390 186853 d20e89baf0abc94317ebe2dbffddf646 ""
   "image/pcb2.png" 1728484419 187415 ee5ed661deb4d2c5b902c3561e2fba99 ""
@@ -150,9 +155,9 @@
   "image/sch4a.png" 1728483789 52582 7d6ffc929bfa4f0fb080156528c104cd ""
   "image/sch5.png" 1728484194 271454 14e830f439d74f41b93e196d96f40fb5 ""
   "image/workspacealtium.png" 1728479797 157493 5bc3fff756e50491b0e775a01e159310 ""
-  "new.aux" 1730473380 6359 0f40256f531ea01865d49f43af6cae9b "pdflatex"
-  "new.tex" 1730473372 18661 6c9a78ef5363d5dfe5b63fc807bcaf55 ""
-  "new.toc" 1730473380 1413 799c56972e8cda2db9b65fe728dffab3 "pdflatex"
+  "new.aux" 1730477013 7090 79cdd9a9d23bade61de019ab0ffd7372 "pdflatex"
+  "new.tex" 1730475379 18298 d7fcbea168591f0f83d86cb88a0fd92e ""
+  "new.toc" 1730477013 1618 8b0e31029634b2620cf6f44c1ff16346 "pdflatex"
   (generated)
   "new.aux"
   "new.log"

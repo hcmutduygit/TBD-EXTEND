@@ -12,5 +12,7 @@
 \contentsline {subsection}{\numberline {2.1}Cấu tạo của mạch cầu H}{11}{}%
 \contentsline {subsection}{\numberline {2.2}Nguyên lý hoạt động của mạch cầu H}{13}{}%
 \contentsline {subsection}{\numberline {2.3}Ứng dụng mạch cầu H trong thực tế}{14}{}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 3: BẢN VẼ SCHEMATIC HOÀN CHỈNH}{15}{}%
-\contentsline {subsection}{\numberline {3.1}Bản vẽ schematic hoàn chỉnh}{15}{}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 3: TẠO THƯ VIỆN SCHEMATIC VÀ FOOTPRINT}{15}{}%
+\contentsline {subsection}{\numberline {3.1}Trình tự tạo thư viện schematic}{15}{}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }CHƯƠNG 4: BẢN VẼ SCHEMATIC HOÀN CHỈNH}{17}{}%
+\contentsline {subsection}{\numberline {4.1}Bản vẽ schematic hoàn chỉnh}{17}{}%

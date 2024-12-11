@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  11 DEC 2024 20:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  11 DEC 2024 21:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -816,50 +816,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 60.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count345
 \l__pdf_internal_box=\box80
-) (main.aux (titlepage.aux) (thanks.aux)
-
-LaTeX Warning: Label `fig:sodonguyenly' multiply defined.
-
-
-LaTeX Warning: Label `fig:sodonguyenly' multiply defined.
-
-
-LaTeX Warning: Label `fig:sodonguyenly' multiply defined.
-
-
-LaTeX Warning: Label `fig:sodonguyenly' multiply defined.
-
-
-LaTeX Warning: Label `fig:sodonguyenly' multiply defined.
-
-
-LaTeX Warning: Label `fig:sodonguyenly' multiply defined.
-
-
-LaTeX Warning: Label `fig:hbridge' multiply defined.
-
-
-LaTeX Warning: Label `fig:hbridge' multiply defined.
-
-
-LaTeX Warning: Label `fig:hbridge' multiply defined.
-
-
-LaTeX Warning: Label `fig:hbridge' multiply defined.
-
-
-LaTeX Warning: Label `fig:hbridge' multiply defined.
-
-
-LaTeX Warning: Label `fig:hbridge' multiply defined.
-
-
-LaTeX Warning: Label `fig:hbridge' multiply defined.
-
-
-LaTeX Warning: Label `fig:hbridge' multiply defined.
-
-)
+) (main.aux (titlepage.aux) (thanks.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -949,7 +906,7 @@ Package hyperref Info: Link coloring ON on input line 30.
 \openout2 = `titlepage.aux'.
 
  (titlepage.tex
-<pictures/hcmut.png, id=186, 431.4519pt x 431.4519pt>
+<pictures/hcmut.png, id=14, 431.4519pt x 431.4519pt>
 File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 9.
@@ -985,125 +942,85 @@ l.30 \cleardoublepage
 
 
 
-]) (main.toc
+]) (main.toc)
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ (chapter7.tex
 
 [2
 
 
 
 
-])
-\tf@toc=\write6
-\openout6 = `main.toc'.
+]
+Ch\uhorn \ohorn ng 1.
+<pictures/7a.png, id=35, 796.47563pt x 499.8675pt>
+File: pictures/7a.png Graphic file (type png)
+<use pictures/7a.png>
+Package pdftex.def Info: pictures/7a.png  used on input line 6.
+(pdftex.def)             Requested size: 455.24411pt x 285.70541pt.
+<pictures/7b.png, id=36, 614.295pt x 394.47375pt>
+File: pictures/7b.png Graphic file (type png)
+<use pictures/7b.png>
+Package pdftex.def Info: pictures/7b.png  used on input line 10.
+(pdftex.def)             Requested size: 455.24411pt x 292.33937pt.
 
- (chapter1.tex
+
+[3
+
+ <./pictures/7a.png>]
+<pictures/7c.png, id=43, 822.82407pt x 478.03593pt>
+File: pictures/7c.png Graphic file (type png)
+<use pictures/7c.png>
+Package pdftex.def Info: pictures/7c.png  used on input line 15.
+(pdftex.def)             Requested size: 455.24411pt x 264.48154pt.
+
 
 File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
-Package pdftex.def Info: pictures/hcmut.png  used on input line 1.
+Package pdftex.def Info: pictures/hcmut.png  used on input line 17.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 1.
+LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 17.
 (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 1.
- [3]
-Ch\uhorn \ohorn ng 1.
-<pictures/altium.png, id=256, 1284.8pt x 722.7pt>
-File: pictures/altium.png Graphic file (type png)
-<use pictures/altium.png>
-Package pdftex.def Info: pictures/altium.png  used on input line 15.
-(pdftex.def)             Requested size: 273.14923pt x 153.64615pt.
-
-
-[4
-
-]
+(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 17.
+ [4 <./pictures/7b.png> <./pictures/7c.png>]
+<pictures/7d.png, id=54, 671.50874pt x 526.96875pt>
+File: pictures/7d.png Graphic file (type png)
+<use pictures/7d.png>
+Package pdftex.def Info: pictures/7d.png  used on input line 21.
+(pdftex.def)             Requested size: 364.19667pt x 285.80522pt.
+)
 
 File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
-Package pdftex.def Info: pictures/hcmut.png  used on input line 19.
+Package pdftex.def Info: pictures/hcmut.png  used on input line 44.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[5 <./pictures/altium.png (PNG copy)>]
-<pictures/workspacealtium.png, id=267, 1445.4pt x 767.86874pt>
-File: pictures/workspacealtium.png Graphic file (type png)
-<use pictures/workspacealtium.png>
-Package pdftex.def Info: pictures/workspacealtium.png  used on input line 34.
-(pdftex.def)             Requested size: 455.24411pt x 241.84479pt.
+[5
 
+ <./pictures/7d.png>] (main.aux (titlepage.aux) (thanks.aux))
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: F7248F176AB1F132F9B91EA0BB185881;303.
+ ) 
+Here is how much of TeX's memory you used:
+ 26058 strings out of 473899
+ 471869 string characters out of 5726500
+ 848807 words of memory out of 5000000
+ 48434 multiletter control sequences out of 15000+600000
+ 584165 words of font info for 98 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 89i,24n,134p,444b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
+Output written on main.pdf (6 pages, 702062 bytes).
+PDF statistics:
+ 84 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 54 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-File: pictures/hcmut.png Graphic file (type png)
-<use pictures/hcmut.png>
-Package pdftex.def Info: pictures/hcmut.png  used on input line 38.
-(pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[6
-
- <./pictures/workspacealtium.png>]
-<pictures/sch1.png, id=284, 308.8338pt x 146.4672pt>
-File: pictures/sch1.png Graphic file (type png)
-<use pictures/sch1.png>
-Package pdftex.def Info: pictures/sch1.png  used on input line 61.
-(pdftex.def)             Requested size: 455.24411pt x 215.91653pt.
-<pictures/sch2.png, id=285, 970.3753pt x 480.29437pt>
-File: pictures/sch2.png Graphic file (type png)
-<use pictures/sch2.png>
-Package pdftex.def Info: pictures/sch2.png  used on input line 67.
-(pdftex.def)             Requested size: 455.24411pt x 225.32797pt.
-<pictures/sch3.png, id=286, 931.22906pt x 616.55344pt>
-File: pictures/sch3.png Graphic file (type png)
-<use pictures/sch3.png>
-Package pdftex.def Info: pictures/sch3.png  used on input line 73.
-(pdftex.def)             Requested size: 455.24411pt x 301.40823pt.
-
-
-File: pictures/hcmut.png Graphic file (type png)
-<use pictures/hcmut.png>
-Package pdftex.def Info: pictures/hcmut.png  used on input line 76.
-(pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[7
-
- <./pictures/sch1.png>]
-<pictures/sch4a.png, id=293, 532.99126pt x 338.76563pt>
-File: pictures/sch4a.png Graphic file (type png)
-<use pictures/sch4a.png>
-Package pdftex.def Info: pictures/sch4a.png  used on input line 79.
-(pdftex.def)             Requested size: 455.24411pt x 289.35814pt.
-<pictures/4b.png, id=294, 712.16063pt x 328.97906pt>
-File: pictures/4b.png Graphic file (type png)
-<use pictures/4b.png>
-Package pdftex.def Info: pictures/4b.png  used on input line 85.
-(pdftex.def)             Requested size: 455.24411pt x 210.29489pt.
-
-
-File: pictures/hcmut.png Graphic file (type png)
-<use pictures/hcmut.png>
-Package pdftex.def Info: pictures/hcmut.png  used on input line 88.
-(pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[8 <./pictures/sch2.png> <./pictures/sch3.png>]
-<pictures/sch5.png, id=303, 589.4522pt x 353.06906pt>
-File: pictures/sch5.png Graphic file (type png)
-<use pictures/sch5.png>
-Package pdftex.def Info: pictures/sch5.png  used on input line 91.
-(pdftex.def)             Requested size: 455.24411pt x 272.68289pt.
-
-
-File: pictures/hcmut.png Graphic file (type png)
-<use pictures/hcmut.png>
-Package pdftex.def Info: pictures/hcmut.png  used on input line 95.
-(pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[9 <./pictures/sch4a.png> <./pictures/4b.png>]
-
-File: pictures/hcmut.png Graphic file (type png)
-<use pictures/hcmut.png>
-Package pdftex.def Info: pictures/hcmut.png  used on input line 95.
-(pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[10 <./pictures/sch5.png>]
-File: pictures/sch1.png Graphic file (type png)
-<use pictures/sch1.png>
-Package pdftex.def Info: pictures/sch1.png  used on input line 141.
-(pdftex.def)             Requested size: 455.24411pt x 215.91653pt.
-<pictures/pcb1.png, id=318, 714.41907pt x 551.05875pt>
-File: pictures/pcb1.png Graphic file (type png)
-<use pictures/pcb1.png>
-Package pdftex.def Info: pictures/pcb1.png  used on input line 

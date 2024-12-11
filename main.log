@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  11 DEC 2024 23:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  11 DEC 2024 23:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -949,7 +949,7 @@ Package hyperref Info: Link coloring ON on input line 30.
 \openout2 = `titlepage.aux'.
 
  (titlepage.tex
-<pictures/hcmut.png, id=194, 431.4519pt x 431.4519pt>
+<pictures/hcmut.png, id=206, 431.4519pt x 431.4519pt>
 File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 9.
@@ -1010,7 +1010,7 @@ LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <12> not available
 (Font)              Font shape `T5/cmtt/m/n' tried instead on input line 1.
  [3]
 Ch\uhorn \ohorn ng 1.
-<pictures/altium.png, id=266, 1284.8pt x 722.7pt>
+<pictures/altium.png, id=281, 1284.8pt x 722.7pt>
 File: pictures/altium.png Graphic file (type png)
 <use pictures/altium.png>
 Package pdftex.def Info: pictures/altium.png  used on input line 15.
@@ -1026,7 +1026,7 @@ File: pictures/hcmut.png Graphic file (type png)
 Package pdftex.def Info: pictures/hcmut.png  used on input line 19.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [5 <./pictures/altium.png (PNG copy)>]
-<pictures/workspacealtium.png, id=277, 1445.4pt x 767.86874pt>
+<pictures/workspacealtium.png, id=292, 1445.4pt x 767.86874pt>
 File: pictures/workspacealtium.png Graphic file (type png)
 <use pictures/workspacealtium.png>
 Package pdftex.def Info: pictures/workspacealtium.png  used on input line 34.
@@ -1040,17 +1040,17 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 38.
 [6
 
  <./pictures/workspacealtium.png>]
-<pictures/sch1.png, id=294, 308.8338pt x 146.4672pt>
+<pictures/sch1.png, id=309, 308.8338pt x 146.4672pt>
 File: pictures/sch1.png Graphic file (type png)
 <use pictures/sch1.png>
 Package pdftex.def Info: pictures/sch1.png  used on input line 61.
 (pdftex.def)             Requested size: 455.24411pt x 215.91653pt.
-<pictures/sch2.png, id=295, 970.3753pt x 480.29437pt>
+<pictures/sch2.png, id=310, 970.3753pt x 480.29437pt>
 File: pictures/sch2.png Graphic file (type png)
 <use pictures/sch2.png>
 Package pdftex.def Info: pictures/sch2.png  used on input line 67.
 (pdftex.def)             Requested size: 455.24411pt x 225.32797pt.
-<pictures/sch3.png, id=296, 931.22906pt x 616.55344pt>
+<pictures/sch3.png, id=311, 931.22906pt x 616.55344pt>
 File: pictures/sch3.png Graphic file (type png)
 <use pictures/sch3.png>
 Package pdftex.def Info: pictures/sch3.png  used on input line 73.
@@ -1064,12 +1064,12 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 76.
 [7
 
  <./pictures/sch1.png>]
-<pictures/sch4a.png, id=303, 532.99126pt x 338.76563pt>
+<pictures/sch4a.png, id=318, 532.99126pt x 338.76563pt>
 File: pictures/sch4a.png Graphic file (type png)
 <use pictures/sch4a.png>
 Package pdftex.def Info: pictures/sch4a.png  used on input line 79.
 (pdftex.def)             Requested size: 455.24411pt x 289.35814pt.
-<pictures/4b.png, id=304, 712.16063pt x 328.97906pt>
+<pictures/4b.png, id=319, 712.16063pt x 328.97906pt>
 File: pictures/4b.png Graphic file (type png)
 <use pictures/4b.png>
 Package pdftex.def Info: pictures/4b.png  used on input line 85.
@@ -1081,7 +1081,7 @@ File: pictures/hcmut.png Graphic file (type png)
 Package pdftex.def Info: pictures/hcmut.png  used on input line 88.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [8 <./pictures/sch2.png> <./pictures/sch3.png>]
-<pictures/sch5.png, id=313, 589.4522pt x 353.06906pt>
+<pictures/sch5.png, id=328, 589.4522pt x 353.06906pt>
 File: pictures/sch5.png Graphic file (type png)
 <use pictures/sch5.png>
 Package pdftex.def Info: pictures/sch5.png  used on input line 91.
@@ -1103,7 +1103,7 @@ File: pictures/sch1.png Graphic file (type png)
 <use pictures/sch1.png>
 Package pdftex.def Info: pictures/sch1.png  used on input line 141.
 (pdftex.def)             Requested size: 455.24411pt x 215.91653pt.
-<pictures/pcb1.png, id=328, 714.41907pt x 551.05875pt>
+<pictures/pcb1.png, id=343, 714.41907pt x 551.05875pt>
 File: pictures/pcb1.png Graphic file (type png)
 <use pictures/pcb1.png>
 Package pdftex.def Info: pictures/pcb1.png  used on input line 147.
@@ -1117,12 +1117,12 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 150.
 [11
 
 ]
-<pictures/pcb2.png, id=333, 715.92468pt x 551.05875pt>
+<pictures/pcb2.png, id=348, 715.92468pt x 551.05875pt>
 File: pictures/pcb2.png Graphic file (type png)
 <use pictures/pcb2.png>
 Package pdftex.def Info: pictures/pcb2.png  used on input line 153.
 (pdftex.def)             Requested size: 455.24411pt x 350.4145pt.
-<pictures/pcb3.png, id=334, 1055.44313pt x 562.35094pt>
+<pictures/pcb3.png, id=349, 1055.44313pt x 562.35094pt>
 File: pictures/pcb3.png Graphic file (type png)
 <use pictures/pcb3.png>
 Package pdftex.def Info: pictures/pcb3.png  used on input line 159.
@@ -1134,12 +1134,12 @@ File: pictures/hcmut.png Graphic file (type png)
 Package pdftex.def Info: pictures/hcmut.png  used on input line 162.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [12 <./pictures/pcb1.png>]
-<pictures/pcb4.png, id=343, 968.86969pt x 600.74437pt>
+<pictures/pcb4.png, id=358, 968.86969pt x 600.74437pt>
 File: pictures/pcb4.png Graphic file (type png)
 <use pictures/pcb4.png>
 Package pdftex.def Info: pictures/pcb4.png  used on input line 165.
 (pdftex.def)             Requested size: 455.24411pt x 282.27657pt.
-<pictures/pcb5.png, id=344, 1087.81406pt x 462.22687pt>
+<pictures/pcb5.png, id=359, 1087.81406pt x 462.22687pt>
 File: pictures/pcb5.png Graphic file (type png)
 <use pictures/pcb5.png>
 Package pdftex.def Info: pictures/pcb5.png  used on input line 171.
@@ -1158,12 +1158,12 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 175.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [14 <./pictures/pcb4.png> <./pictures/pcb5.png>]) (chapter3.tex
 Ch\uhorn \ohorn ng 2.
-<pictures/ch3.1.png, id=361, 1445.4pt x 767.86874pt>
+<pictures/ch3.1.png, id=376, 1445.4pt x 767.86874pt>
 File: pictures/ch3.1.png Graphic file (type png)
 <use pictures/ch3.1.png>
 Package pdftex.def Info: pictures/ch3.1.png  used on input line 6.
 (pdftex.def)             Requested size: 455.24411pt x 241.84479pt.
-<pictures/ch3.2.png, id=362, 658.71094pt x 517.935pt>
+<pictures/ch3.2.png, id=377, 658.71094pt x 517.935pt>
 File: pictures/ch3.2.png Graphic file (type png)
 <use pictures/ch3.2.png>
 Package pdftex.def Info: pictures/ch3.2.png  used on input line 11.
@@ -1174,7 +1174,7 @@ Package pdftex.def Info: pictures/ch3.2.png  used on input line 11.
 
 
  <./pictures/ch3.1.png>]
-<pictures/ch3.3.png, id=369, 1445.4pt x 767.86874pt>
+<pictures/ch3.3.png, id=384, 1445.4pt x 767.86874pt>
 File: pictures/ch3.3.png Graphic file (type png)
 <use pictures/ch3.3.png>
 Package pdftex.def Info: pictures/ch3.3.png  used on input line 16.
@@ -1184,7 +1184,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-<pictures/ch3.4.png, id=370, 658.71094pt x 517.935pt>
+<pictures/ch3.4.png, id=385, 658.71094pt x 517.935pt>
 File: pictures/ch3.4.png Graphic file (type png)
 <use pictures/ch3.4.png>
 Package pdftex.def Info: pictures/ch3.4.png  used on input line 25.
@@ -1196,12 +1196,12 @@ File: pictures/hcmut.png Graphic file (type png)
 Package pdftex.def Info: pictures/hcmut.png  used on input line 27.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [16 <./pictures/ch3.2.png> <./pictures/ch3.3.png>]
-<pictures/ch3.5.png, id=379, 1445.4pt x 767.86874pt>
+<pictures/ch3.5.png, id=394, 1445.4pt x 767.86874pt>
 File: pictures/ch3.5.png Graphic file (type png)
 <use pictures/ch3.5.png>
 Package pdftex.def Info: pictures/ch3.5.png  used on input line 30.
 (pdftex.def)             Requested size: 455.24411pt x 241.84479pt.
-<pictures/ch3.6.png, id=380, 947.03813pt x 610.53094pt>
+<pictures/ch3.6.png, id=395, 947.03813pt x 610.53094pt>
 File: pictures/ch3.6.png Graphic file (type png)
 <use pictures/ch3.6.png>
 Package pdftex.def Info: pictures/ch3.6.png  used on input line 35.
@@ -1219,17 +1219,17 @@ File: pictures/hcmut.png Graphic file (type png)
 Package pdftex.def Info: pictures/hcmut.png  used on input line 37.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [18 <./pictures/ch3.6.png>]
-<pictures/ch3.7.png, id=396, 717.43031pt x 654.94687pt>
+<pictures/ch3.7.png, id=411, 717.43031pt x 654.94687pt>
 File: pictures/ch3.7.png Graphic file (type png)
 <use pictures/ch3.7.png>
 Package pdftex.def Info: pictures/ch3.7.png  used on input line 41.
 (pdftex.def)             Requested size: 409.71692pt x 374.04315pt.
-<pictures/ch3.8.png, id=397, 947.03813pt x 610.53094pt>
+<pictures/ch3.8.png, id=412, 947.03813pt x 610.53094pt>
 File: pictures/ch3.8.png Graphic file (type png)
 <use pictures/ch3.8.png>
 Package pdftex.def Info: pictures/ch3.8.png  used on input line 46.
 (pdftex.def)             Requested size: 364.19667pt x 234.78032pt.
-<pictures/ch3.9.png, id=398, 947.03813pt x 610.53094pt>
+<pictures/ch3.9.png, id=413, 947.03813pt x 610.53094pt>
 File: pictures/ch3.9.png Graphic file (type png)
 <use pictures/ch3.9.png>
 Package pdftex.def Info: pictures/ch3.9.png  used on input line 51.
@@ -1243,7 +1243,7 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 53.
 [19
 
  <./pictures/ch3.7.png> <./pictures/ch3.8.png>]
-<pictures/ch3.10.png, id=407, 947.03813pt x 610.53094pt>
+<pictures/ch3.10.png, id=422, 947.03813pt x 610.53094pt>
 File: pictures/ch3.10.png Graphic file (type png)
 <use pictures/ch3.10.png>
 Package pdftex.def Info: pictures/ch3.10.png  used on input line 56.
@@ -1255,12 +1255,12 @@ File: pictures/hcmut.png Graphic file (type png)
 Package pdftex.def Info: pictures/hcmut.png  used on input line 58.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [20 <./pictures/ch3.9.png> <./pictures/ch3.10.png>]
-<pictures/ch3.11a.png, id=416, 857.45343pt x 531.48563pt>
+<pictures/ch3.11a.png, id=431, 857.45343pt x 531.48563pt>
 File: pictures/ch3.11a.png Graphic file (type png)
 <use pictures/ch3.11a.png>
 Package pdftex.def Info: pictures/ch3.11a.png  used on input line 62.
 (pdftex.def)             Requested size: 409.71692pt x 253.9586pt.
-<pictures/ch3.11b.png, id=417, 892.08281pt x 599.99156pt>
+<pictures/ch3.11b.png, id=432, 892.08281pt x 599.99156pt>
 File: pictures/ch3.11b.png Graphic file (type png)
 <use pictures/ch3.11b.png>
 Package pdftex.def Info: pictures/ch3.11b.png  used on input line 67.
@@ -1274,12 +1274,12 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 70.
 [21
 
  <./pictures/ch3.11a.png> <./pictures/ch3.11b.png>]
-<pictures/ch3.12.png, id=426, 1445.4pt x 767.86874pt>
+<pictures/ch3.12.png, id=441, 1445.4pt x 767.86874pt>
 File: pictures/ch3.12.png Graphic file (type png)
 <use pictures/ch3.12.png>
 Package pdftex.def Info: pictures/ch3.12.png  used on input line 75.
 (pdftex.def)             Requested size: 455.24411pt x 241.84479pt.
-<pictures/ch3.13.png, id=427, 1445.4pt x 767.86874pt>
+<pictures/ch3.13.png, id=442, 1445.4pt x 767.86874pt>
 File: pictures/ch3.13.png Graphic file (type png)
 <use pictures/ch3.13.png>
 Package pdftex.def Info: pictures/ch3.13.png  used on input line 80.
@@ -1293,17 +1293,17 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 82.
 [22
 
  <./pictures/ch3.12.png> <./pictures/ch3.13.png>]
-<pictures/ch3.15.png, id=436, 658.71094pt x 517.935pt>
+<pictures/ch3.15.png, id=451, 658.71094pt x 517.935pt>
 File: pictures/ch3.15.png Graphic file (type png)
 <use pictures/ch3.15.png>
 Package pdftex.def Info: pictures/ch3.15.png  used on input line 86.
 (pdftex.def)             Requested size: 455.24411pt x 357.96034pt.
-<pictures/ch3.16.png, id=437, 1445.4pt x 767.86874pt>
+<pictures/ch3.16.png, id=452, 1445.4pt x 767.86874pt>
 File: pictures/ch3.16.png Graphic file (type png)
 <use pictures/ch3.16.png>
 Package pdftex.def Info: pictures/ch3.16.png  used on input line 92.
 (pdftex.def)             Requested size: 455.24411pt x 241.84479pt.
-<pictures/ch3.14.png, id=438, 1445.4pt x 767.86874pt>
+<pictures/ch3.14.png, id=453, 1445.4pt x 767.86874pt>
 File: pictures/ch3.14.png Graphic file (type png)
 <use pictures/ch3.14.png>
 Package pdftex.def Info: pictures/ch3.14.png  used on input line 96.
@@ -1324,12 +1324,12 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 99.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [24 <./pictures/ch3.14.png>]) (chapter2.tex
 Ch\uhorn \ohorn ng 3.
-<pictures/cauhsimple.png, id=454, 620.3175pt x 834.11626pt>
+<pictures/cauhsimple.png, id=469, 620.3175pt x 834.11626pt>
 File: pictures/cauhsimple.png Graphic file (type png)
 <use pictures/cauhsimple.png>
 Package pdftex.def Info: pictures/cauhsimple.png  used on input line 13.
 (pdftex.def)             Requested size: 182.09486pt x 244.85304pt.
-<pictures/cauhcurcuit.png, id=455, 1606.0pt x 1178.4025pt>
+<pictures/cauhcurcuit.png, id=470, 1606.0pt x 1178.4025pt>
 File: pictures/cauhcurcuit.png Graphic file (type png)
 <use pictures/cauhcurcuit.png>
 Package pdftex.def Info: pictures/cauhcurcuit.png  used on input line 19.
@@ -1346,7 +1346,7 @@ File: pictures/hcmut.png Graphic file (type png)
 Package pdftex.def Info: pictures/hcmut.png  used on input line 23.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [26 <./pictures/cauhcurcuit.png (PNG copy)>]
-<pictures/cauhwork.png, id=466, 1003.75pt x 641.39626pt>
+<pictures/cauhwork.png, id=481, 1003.75pt x 641.39626pt>
 File: pictures/cauhwork.png Graphic file (type png)
 <use pictures/cauhwork.png>
 Package pdftex.def Info: pictures/cauhwork.png  used on input line 27.
@@ -1360,7 +1360,7 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 38.
 [27
 
  <./pictures/cauhwork.png (PNG copy)>]
-<pictures/cong3que.png, id=472, 803.0pt x 602.25pt>
+<pictures/cong3que.png, id=487, 803.0pt x 602.25pt>
 File: pictures/cong3que.png Graphic file (type png)
 <use pictures/cong3que.png>
 Package pdftex.def Info: pictures/cong3que.png  used on input line 49.
@@ -1375,12 +1375,12 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 53.
 
  <./pictures/cong3que.png (PNG copy)>]) (chapter4.tex
 Ch\uhorn \ohorn ng 4.
-<pictures/encoder1.png, id=478, 670.30424pt x 336.65775pt>
+<pictures/encoder1.png, id=493, 670.30424pt x 336.65775pt>
 File: pictures/encoder1.png Graphic file (type png)
 <use pictures/encoder1.png>
 Package pdftex.def Info: pictures/encoder1.png  used on input line 17.
 (pdftex.def)             Requested size: 455.24411pt x 228.64682pt.
-<pictures/encoder2.png, id=479, 670.30424pt x 336.65775pt>
+<pictures/encoder2.png, id=494, 670.30424pt x 336.65775pt>
 File: pictures/encoder2.png Graphic file (type png)
 <use pictures/encoder2.png>
 Package pdftex.def Info: pictures/encoder2.png  used on input line 21.
@@ -1391,7 +1391,7 @@ Package pdftex.def Info: pictures/encoder2.png  used on input line 21.
 
 
 ]
-<pictures/encoder3.png, id=484, 518.53725pt x 334.24875pt>
+<pictures/encoder3.png, id=499, 518.53725pt x 334.24875pt>
 File: pictures/encoder3.png Graphic file (type png)
 <use pictures/encoder3.png>
 Package pdftex.def Info: pictures/encoder3.png  used on input line 26.
@@ -1403,7 +1403,7 @@ File: pictures/hcmut.png Graphic file (type png)
 Package pdftex.def Info: pictures/hcmut.png  used on input line 28.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [30 <./pictures/encoder1.png> <./pictures/encoder2.png>]
-<pictures/encoder5.png, id=494, 501.875pt x 351.3125pt>
+<pictures/encoder5.png, id=509, 501.875pt x 351.3125pt>
 File: pictures/encoder5.png Graphic file (type png)
 <use pictures/encoder5.png>
 Package pdftex.def Info: pictures/encoder5.png  used on input line 45.
@@ -1421,7 +1421,7 @@ File: pictures/hcmut.png Graphic file (type png)
 Package pdftex.def Info: pictures/hcmut.png  used on input line 49.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [32 <./pictures/encoder5.png>]
-<pictures/encoder6.png, id=508, 645.41125pt x 435.6275pt>
+<pictures/encoder6.png, id=523, 645.41125pt x 435.6275pt>
 File: pictures/encoder6.png Graphic file (type png)
 <use pictures/encoder6.png>
 Package pdftex.def Info: pictures/encoder6.png  used on input line 56.
@@ -1436,7 +1436,7 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 59.
 
  <./pictures/encoder6.png>]) (chapter5.tex
 Ch\uhorn \ohorn ng 5.
-<pictures/lm2576_pinout.png, id=514, 598.235pt x 367.3725pt>
+<pictures/lm2576_pinout.png, id=529, 598.235pt x 367.3725pt>
 File: pictures/lm2576_pinout.png Graphic file (type png)
 <use pictures/lm2576_pinout.png>
 Package pdftex.def Info: pictures/lm2576_pinout.png  used on input line 16.
@@ -1447,7 +1447,7 @@ Package pdftex.def Info: pictures/lm2576_pinout.png  used on input line 16.
 
 
  <./pictures/lm2576_pinout.png (PNG copy)>]
-<pictures/lm2576_application_circuit.png, id=520, 2236.355pt x 1129.21875pt>
+<pictures/lm2576_application_circuit.png, id=535, 2236.355pt x 1129.21875pt>
 File: pictures/lm2576_application_circuit.png Graphic file (type png)
 <use pictures/lm2576_application_circuit.png>
 Package pdftex.def Info: pictures/lm2576_application_circuit.png  used on input line 42.
@@ -1465,12 +1465,12 @@ File: pictures/hcmut.png Graphic file (type png)
 Package pdftex.def Info: pictures/hcmut.png  used on input line 82.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [36]
-<pictures/bts7960b_pinout.png, id=537, 475.7775pt x 266.9975pt>
+<pictures/bts7960b_pinout.png, id=552, 475.7775pt x 266.9975pt>
 File: pictures/bts7960b_pinout.png Graphic file (type png)
 <use pictures/bts7960b_pinout.png>
 Package pdftex.def Info: pictures/bts7960b_pinout.png  used on input line 90.
 (pdftex.def)             Requested size: 227.62206pt x 127.7377pt.
-<pictures/bts7960b_application_circuit.png, id=538, 328.22626pt x 234.8775pt>
+<pictures/bts7960b_application_circuit.png, id=553, 328.22626pt x 234.8775pt>
 File: pictures/bts7960b_application_circuit.png Graphic file (type png)
 <use pictures/bts7960b_application_circuit.png>
 Package pdftex.def Info: pictures/bts7960b_application_circuit.png  used on input line 105.
@@ -1495,35 +1495,58 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 142.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [39]) (chapter6.tex
 Ch\uhorn \ohorn ng 6.
-<pictures/ISO_current.png, id=556, 784.50987pt x 606.21217pt>
-File: pictures/ISO_current.png Graphic file (type png)
-<use pictures/ISO_current.png>
-Package pdftex.def Info: pictures/ISO_current.png  used on input line 5.
-(pdftex.def)             Requested size: 455.24411pt x 351.77905pt.
+<pictures/power_iso.png, id=571, 533.5935pt x 371.58826pt>
+File: pictures/power_iso.png Graphic file (type png)
+<use pictures/power_iso.png>
+Package pdftex.def Info: pictures/power_iso.png  used on input line 7.
+(pdftex.def)             Requested size: 455.24411pt x 317.04219pt.
 
 
 [40
 
 
- <./pictures/ISO_current.png (PNG copy)>]) (chapter7.tex
+ <./pictures/power_iso.png>]
+<pictures/driver.png, id=578, 574.5465pt x 295.70474pt>
+File: pictures/driver.png Graphic file (type png)
+<use pictures/driver.png>
+Package pdftex.def Info: pictures/driver.png  used on input line 20.
+(pdftex.def)             Requested size: 455.24411pt x 234.30806pt.
+<pictures/ISO_current.png, id=579, 784.50987pt x 606.21217pt>
+File: pictures/ISO_current.png Graphic file (type png)
+<use pictures/ISO_current.png>
+Package pdftex.def Info: pictures/ISO_current.png  used on input line 34.
+(pdftex.def)             Requested size: 455.24411pt x 351.77905pt.
+
+
+File: pictures/hcmut.png Graphic file (type png)
+<use pictures/hcmut.png>
+Package pdftex.def Info: pictures/hcmut.png  used on input line 37.
+(pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
+[41 <./pictures/driver.png>]
+
+File: pictures/hcmut.png Graphic file (type png)
+<use pictures/hcmut.png>
+Package pdftex.def Info: pictures/hcmut.png  used on input line 37.
+(pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
+[42 <./pictures/ISO_current.png (PNG copy)>]) (chapter7.tex
 Ch\uhorn \ohorn ng 7.
-<pictures/7a.png, id=562, 796.47563pt x 499.8675pt>
+<pictures/7a.png, id=592, 796.47563pt x 499.8675pt>
 File: pictures/7a.png Graphic file (type png)
 <use pictures/7a.png>
 Package pdftex.def Info: pictures/7a.png  used on input line 6.
 (pdftex.def)             Requested size: 455.24411pt x 285.70541pt.
-<pictures/7b.png, id=563, 614.295pt x 394.47375pt>
+<pictures/7b.png, id=593, 614.295pt x 394.47375pt>
 File: pictures/7b.png Graphic file (type png)
 <use pictures/7b.png>
 Package pdftex.def Info: pictures/7b.png  used on input line 10.
 (pdftex.def)             Requested size: 455.24411pt x 292.33937pt.
 
 
-[41
+[43
 
 
  <./pictures/7a.png>]
-<pictures/7c.png, id=570, 822.82407pt x 478.03593pt>
+<pictures/7c.png, id=600, 822.82407pt x 478.03593pt>
 File: pictures/7c.png Graphic file (type png)
 <use pictures/7c.png>
 Package pdftex.def Info: pictures/7c.png  used on input line 15.
@@ -1534,13 +1557,13 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 17.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[42 <./pictures/7b.png> <./pictures/7c.png>]
-<pictures/7d.png, id=580, 671.50874pt x 526.96875pt>
+[44 <./pictures/7b.png> <./pictures/7c.png>]
+<pictures/7d.png, id=609, 671.50874pt x 526.96875pt>
 File: pictures/7d.png Graphic file (type png)
 <use pictures/7d.png>
 Package pdftex.def Info: pictures/7d.png  used on input line 21.
 (pdftex.def)             Requested size: 364.19667pt x 285.80522pt.
-<pictures/7e.png, id=581, 565.36218pt x 453.19313pt>
+<pictures/7e.png, id=610, 565.36218pt x 453.19313pt>
 File: pictures/7e.png Graphic file (type png)
 <use pictures/7e.png>
 Package pdftex.def Info: pictures/7e.png  used on input line 25.
@@ -1551,20 +1574,20 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 27.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[43
+[45
 
  <./pictures/7d.png> <./pictures/7e.png>]
-<pictures/7f.png, id=590, 659.46375pt x 527.72156pt>
+<pictures/7f.png, id=619, 659.46375pt x 527.72156pt>
 File: pictures/7f.png Graphic file (type png)
 <use pictures/7f.png>
 Package pdftex.def Info: pictures/7f.png  used on input line 39.
 (pdftex.def)             Requested size: 364.19667pt x 291.44756pt.
-<pictures/7g.png, id=591, 1188.69093pt x 515.67656pt>
+<pictures/7g.png, id=620, 1188.69093pt x 515.67656pt>
 File: pictures/7g.png Graphic file (type png)
 <use pictures/7g.png>
 Package pdftex.def Info: pictures/7g.png  used on input line 44.
 (pdftex.def)             Requested size: 364.19667pt x 157.99323pt.
-<pictures/7h.png, id=592, 746.03719pt x 566.86781pt>
+<pictures/7h.png, id=621, 746.03719pt x 566.86781pt>
 File: pictures/7h.png Graphic file (type png)
 <use pictures/7h.png>
 Package pdftex.def Info: pictures/7h.png  used on input line 49.
@@ -1575,10 +1598,10 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 50.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[44
+[46
 
  <./pictures/7f.png> <./pictures/7g.png>]
-<pictures/7i.png, id=601, 756.57657pt x 538.26094pt>
+<pictures/7i.png, id=630, 756.57657pt x 538.26094pt>
 File: pictures/7i.png Graphic file (type png)
 <use pictures/7i.png>
 Package pdftex.def Info: pictures/7i.png  used on input line 53.
@@ -1589,13 +1612,13 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 55.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[45 <./pictures/7h.png> <./pictures/7i.png>]
-<pictures/7j.png, id=610, 658.71094pt x 505.13719pt>
+[47 <./pictures/7h.png> <./pictures/7i.png>]
+<pictures/7j.png, id=639, 658.71094pt x 505.13719pt>
 File: pictures/7j.png Graphic file (type png)
 <use pictures/7j.png>
 Package pdftex.def Info: pictures/7j.png  used on input line 60.
 (pdftex.def)             Requested size: 364.19667pt x 279.29079pt.
-<pictures/7k.png, id=611, 648.17157pt x 506.6428pt>
+<pictures/7k.png, id=640, 648.17157pt x 506.6428pt>
 File: pictures/7k.png Graphic file (type png)
 <use pictures/7k.png>
 Package pdftex.def Info: pictures/7k.png  used on input line 64.
@@ -1606,20 +1629,20 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 66.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[46
+[48
 
  <./pictures/7j.png> <./pictures/7k.png>]
-<pictures/7l.png, id=620, 686.565pt x 512.66531pt>
+<pictures/7l.png, id=650, 686.565pt x 512.66531pt>
 File: pictures/7l.png Graphic file (type png)
 <use pictures/7l.png>
 Package pdftex.def Info: pictures/7l.png  used on input line 70.
 (pdftex.def)             Requested size: 409.71692pt x 305.93533pt.
-<pictures/7m.png, id=621, 649.67719pt x 510.40688pt>
+<pictures/7m.png, id=651, 649.67719pt x 510.40688pt>
 File: pictures/7m.png Graphic file (type png)
 <use pictures/7m.png>
 Package pdftex.def Info: pictures/7m.png  used on input line 74.
 (pdftex.def)             Requested size: 409.71692pt x 321.89291pt.
-<pictures/7n.png, id=622, 483.60675pt x 439.04025pt>
+<pictures/7n.png, id=652, 483.60675pt x 439.04025pt>
 File: pictures/7n.png Graphic file (type png)
 <use pictures/7n.png>
 Package pdftex.def Info: pictures/7n.png  used on input line 81.
@@ -1630,7 +1653,7 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 82.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[47
+[49
 
  <./pictures/7l.png> <./pictures/7m.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 83--84
@@ -1643,8 +1666,8 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 84.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[48 <./pictures/7n.png>]
-<pictures/7o.png, id=638, 617.30624pt x 548.0475pt>
+[50 <./pictures/7n.png>]
+<pictures/7o.png, id=667, 617.30624pt x 548.0475pt>
 File: pictures/7o.png Graphic file (type png)
 <use pictures/7o.png>
 Package pdftex.def Info: pictures/7o.png  used on input line 88.
@@ -1660,10 +1683,10 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 91.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[49
+[51
 
  <./pictures/7o.png>]
-<pictures/7p.png, id=645, 540.51938pt x 513.41812pt>
+<pictures/7p.png, id=674, 540.51938pt x 513.41812pt>
 File: pictures/7p.png Graphic file (type png)
 <use pictures/7p.png>
 Package pdftex.def Info: pictures/7p.png  used on input line 95.
@@ -1679,7 +1702,7 @@ File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 42.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[50
+[52
 
  <./pictures/7p.png>] (main.aux (titlepage.aux) (thanks.aux))
  ***********
@@ -1691,20 +1714,20 @@ L3 programming layer <2024-08-30>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6CABB618F87C2ED5147A10D1BD991965;9830.
+(rerunfilecheck)             Checksum: 645AD8910BA3E74D09E066CB49F98C2C;10431.
  ) 
 Here is how much of TeX's memory you used:
- 26711 strings out of 473899
- 485796 string characters out of 5726500
+ 26735 strings out of 473899
+ 486319 string characters out of 5726500
  855185 words of memory out of 5000000
- 48904 multiletter control sequences out of 15000+600000
+ 48921 multiletter control sequences out of 15000+600000
  585483 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,25n,134p,856b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
-Output written on main.pdf (51 pages, 12956670 bytes).
+Output written on main.pdf (53 pages, 13022206 bytes).
 PDF statistics:
- 730 PDF objects out of 1000 (max. 8388607)
- 177 named destinations out of 1000 (max. 500000)
- 694 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 761 PDF objects out of 1000 (max. 8388607)
+ 184 named destinations out of 1000 (max. 500000)
+ 728 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  11 DEC 2024 21:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  11 DEC 2024 21:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -993,15 +993,28 @@ File: pictures/7d.png Graphic file (type png)
 <use pictures/7d.png>
 Package pdftex.def Info: pictures/7d.png  used on input line 21.
 (pdftex.def)             Requested size: 364.19667pt x 285.80522pt.
-)
+<pictures/7e.png, id=55, 565.36218pt x 453.19313pt>
+File: pictures/7e.png Graphic file (type png)
+<use pictures/7e.png>
+Package pdftex.def Info: pictures/7e.png  used on input line 25.
+(pdftex.def)             Requested size: 364.19667pt x 291.94427pt.
+
+
+File: pictures/hcmut.png Graphic file (type png)
+<use pictures/hcmut.png>
+Package pdftex.def Info: pictures/hcmut.png  used on input line 27.
+(pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
+[5
+
+ <./pictures/7d.png> <./pictures/7e.png>])
 
 File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 44.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[5
+[6
 
- <./pictures/7d.png>] (main.aux (titlepage.aux) (thanks.aux))
+] (main.aux (titlepage.aux) (thanks.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
@@ -1010,17 +1023,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F7248F176AB1F132F9B91EA0BB185881;303.
  ) 
 Here is how much of TeX's memory you used:
- 26058 strings out of 473899
- 471869 string characters out of 5726500
+ 26072 strings out of 473899
+ 472137 string characters out of 5726500
  848807 words of memory out of 5000000
- 48434 multiletter control sequences out of 15000+600000
- 584165 words of font info for 98 fonts, out of 8000000 for 9000
+ 48445 multiletter control sequences out of 15000+600000
+ 584502 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,24n,134p,444b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
-Output written on main.pdf (6 pages, 702062 bytes).
+ <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
+Output written on main.pdf (7 pages, 814466 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 59 words of extra memory for PDF output out of 10000 (max. 10000000)
 

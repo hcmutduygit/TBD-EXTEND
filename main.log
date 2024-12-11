@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  11 DEC 2024 21:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  11 DEC 2024 22:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1006,34 +1006,62 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 27.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [5
 
- <./pictures/7d.png> <./pictures/7e.png>])
+ <./pictures/7d.png> <./pictures/7e.png>]
+<pictures/7f.png, id=64, 659.46375pt x 527.72156pt>
+File: pictures/7f.png Graphic file (type png)
+<use pictures/7f.png>
+Package pdftex.def Info: pictures/7f.png  used on input line 39.
+(pdftex.def)             Requested size: 364.19667pt x 291.44756pt.
+<pictures/7g.png, id=65, 1188.69093pt x 515.67656pt>
+File: pictures/7g.png Graphic file (type png)
+<use pictures/7g.png>
+Package pdftex.def Info: pictures/7g.png  used on input line 44.
+(pdftex.def)             Requested size: 364.19667pt x 157.99323pt.
+<pictures/7h.png, id=66, 746.03719pt x 566.86781pt>
+File: pictures/7h.png Graphic file (type png)
+<use pictures/7h.png>
+Package pdftex.def Info: pictures/7h.png  used on input line 49.
+(pdftex.def)             Requested size: 364.19667pt x 276.72969pt.
+
+
+File: pictures/hcmut.png Graphic file (type png)
+<use pictures/hcmut.png>
+Package pdftex.def Info: pictures/hcmut.png  used on input line 50.
+(pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
+[6
+
+ <./pictures/7f.png> <./pictures/7g.png>]
+<pictures/7i.png, id=77, 756.57657pt x 538.26094pt>
+File: pictures/7i.png Graphic file (type png)
+<use pictures/7i.png>
+Package pdftex.def Info: pictures/7i.png  used on input line 53.
+(pdftex.def)             Requested size: 364.19667pt x 259.1015pt.
+)
 
 File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
 Package pdftex.def Info: pictures/hcmut.png  used on input line 44.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
-[6
-
-] (main.aux (titlepage.aux) (thanks.aux))
+[7 <./pictures/7h.png> <./pictures/7i.png>] (main.aux (titlepage.aux) (thanks.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F7248F176AB1F132F9B91EA0BB185881;303.
+(rerunfilecheck)             Checksum: 6B314F3534B041C296CCC26E573EBD33;466.
  ) 
 Here is how much of TeX's memory you used:
- 26072 strings out of 473899
- 472137 string characters out of 5726500
+ 26105 strings out of 473899
+ 472821 string characters out of 5726500
  848807 words of memory out of 5000000
- 48445 multiletter control sequences out of 15000+600000
+ 48473 multiletter control sequences out of 15000+600000
  584502 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 89i,24n,134p,444b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,24n,134p,444b,567s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
-Output written on main.pdf (7 pages, 814466 bytes).
+Output written on main.pdf (8 pages, 1437062 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 59 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
 

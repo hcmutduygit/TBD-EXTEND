@@ -1,4 +1,4 @@
-\chapter{THIẾT KẾ PCB}
+\chapter{THIẾT KẾ PCB HOÀN CHỈNH MẠCH ĐƯỢC GIAO} 
 \section{Quá trình thiết kế PCB}
 \textbf{Chuyển tất cả linh kiện từ Schematic qua PCB}
 \begin{figure}[H]
@@ -33,3 +33,22 @@ Khi sắp xếp vị trí linh kiện cần lưu ý:
     \item Nên xếp theo cụm chức năng.
     \item Ngoài ra cần lưu ý khoảng cách giữa các linh kiện để không bị trùng lên nhau hoặc tồn tại quá nhiều khoảng trống không cần thiết.
 \end{itemize}   
+\textbf{Đi dây cho mạch}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{pictures/7f.png}
+\end{figure}
+Khi đi dây cho mạch cần lưu ý kiểm tra xem có dây nào còn sót không và có dây nào không có tín hiệu không bằng chức năng Design Rule Check.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{pictures/7g.png}
+\end{figure}
+Ngoài ra ở các dây nguồn cần đi dây có độ rộng lớn hơn để tăng khả năng chịu tải và chịu nhiệt. Chúng ta sẽ tăng bề rộng các dây như sau:
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{pictures/7h.png}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{pictures/7i.png}
+\end{figure}

@@ -23,7 +23,7 @@
 %Footer
 \fancyfoot{} % clear all footer fields
 \fancyfoot[L]{\scriptsize \ttfamily Trang bị điện - điện tử trong máy công nghiệp - Mở rộng}
-\fancyfoot[R]{\scriptsize \ttfamily Trang {\thepage}/39}
+\fancyfoot[R]{\scriptsize \ttfamily Trang {\thepage}/50}
 \renewcommand{\headrulewidth}{0.3pt}
 \renewcommand{\footrulewidth}{0.3pt}
 
@@ -31,11 +31,14 @@
     \include{titlepage}
     \include{thanks}
     \tableofcontents
-    \newpage
-    \include{chapter1}
-    \include{chapter2}
-    \include{chapter3}
-    \include{chapter4}
-    \include{chapter5}
-    \include{chapter6}
+    \input{chapter1.tex}
+    \input{chapter2.tex}
+    \input{chapter3.tex}
+    \input{chapter4.tex}
+    \input{chapter5.tex}
+    \input{chapter6.tex}
+
+
+    \input{chapter7.tex}
+
 \end{document}

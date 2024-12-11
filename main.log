@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  11 DEC 2024 22:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.8)  11 DEC 2024 22:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1061,7 +1061,18 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 66.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [8
 
- <./pictures/7j.png> <./pictures/7k.png>])
+ <./pictures/7j.png> <./pictures/7k.png>]
+<pictures/7l.png, id=96, 686.565pt x 512.66531pt>
+File: pictures/7l.png Graphic file (type png)
+<use pictures/7l.png>
+Package pdftex.def Info: pictures/7l.png  used on input line 70.
+(pdftex.def)             Requested size: 409.71692pt x 305.93533pt.
+<pictures/7m.png, id=97, 649.67719pt x 510.40688pt>
+File: pictures/7m.png Graphic file (type png)
+<use pictures/7m.png>
+Package pdftex.def Info: pictures/7m.png  used on input line 74.
+(pdftex.def)             Requested size: 409.71692pt x 321.89291pt.
+)
 
 File: pictures/hcmut.png Graphic file (type png)
 <use pictures/hcmut.png>
@@ -1069,7 +1080,7 @@ Package pdftex.def Info: pictures/hcmut.png  used on input line 44.
 (pdftex.def)             Requested size: 34.1416pt x 34.1416pt.
 [9
 
-] (main.aux (titlepage.aux) (thanks.aux))
+ <./pictures/7l.png> <./pictures/7m.png>] (main.aux (titlepage.aux) (thanks.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
@@ -1078,17 +1089,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6B314F3534B041C296CCC26E573EBD33;466.
  ) 
 Here is how much of TeX's memory you used:
- 26123 strings out of 473899
- 473173 string characters out of 5726500
+ 26139 strings out of 473899
+ 473513 string characters out of 5726500
  848809 words of memory out of 5000000
- 48487 multiletter control sequences out of 15000+600000
+ 48501 multiletter control sequences out of 15000+600000
  584502 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,24n,134p,444b,567s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
-Output written on main.pdf (10 pages, 1750608 bytes).
+Output written on main.pdf (10 pages, 2060024 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 99 words of extra memory for PDF output out of 10000 (max. 10000000)
 
